@@ -1,7 +1,7 @@
 <% layout("/layouts/boilerplate") -%>
   <script>
     const mapToken = "<%=process.env.MAP_TOKEN%>";
-    const coordinates =<% -JSON.stringify(listingi.geometry.coordinates) %>
+    const coordinates =<%-JSON.stringify(listingi.geometry.coordinates) %>
   </script>
   <div class="row">
     <div class="col-8 offset-4">
