@@ -30,6 +30,3 @@ Hotel-Find is a web-based application designed to help users search and book hot
    git clone https://github.com/bhavinoo7/hotel-find.git  
    cd hotel-find
 
-
-
- ![Homepage](https://drive.google.com/file/d/1eJ1nFgX5fMufiawbF-fYZGQgM3dO5mJm/view?usp=drive_link)
